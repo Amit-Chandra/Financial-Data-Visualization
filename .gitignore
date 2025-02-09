@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+testing.py
+pireport.xlsx
+testforphoneme.xlsx
