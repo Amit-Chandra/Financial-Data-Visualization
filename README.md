@@ -47,10 +47,10 @@ The app will be available at `http://127.0.0.1:5000/`
 
 ## 🖼️ Screenshots
 📌 **Upload Page**  
-![static/images/upload.png](#) *(Add an image link here)*  
+![Upload Page](images/upload.png)
 
 📌 **Plotly Visualization (Interactive Graphs)**  
-![static/images/plot.png](#) *(Add an image link here)*  
+![Graph Screenshot](images/plot.png)
 
 ---
 
